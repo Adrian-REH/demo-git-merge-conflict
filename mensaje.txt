@@ -4,6 +4,5 @@ adios venus
 linea1
 linea2
 
-
-lineaX
+linea10
 lineaY
