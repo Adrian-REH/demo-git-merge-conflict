@@ -1,8 +1,9 @@
 hola mundo fresa
-adios saturno
+adios venus
 
 linea1
 linea2
 
-linea40
-linea50
+
+lineaX
+lineaY
